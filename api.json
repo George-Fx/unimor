@@ -253,19 +253,19 @@
       "id": "1",
       "image": "https://george-fx.github.io/manero-api/resources/banners/01.png",
       "title": "Take 50% off!",
-      "btnTitle": "shop now"
+      "btnText": "shop now"
     },
     {
-      "id": "2",
-      "image": "https://george-fx.github.io/manero-api/resources/banners/02.png",
-      "title": "Take 50% off now!",
-      "subtitle": "shop now"
-    },
-    {
-      "id": "3",
-      "image": "https://george-fx.github.io/manero-api/resources/banners/03.png",
+      "id": "1",
+      "image": "https://george-fx.github.io/manero-api/resources/banners/01.png",
       "title": "Take 50% off!",
-      "subtitle": "shop now"
+      "btnText": "shop now"
+    },
+    {
+      "id": "1",
+      "image": "https://george-fx.github.io/manero-api/resources/banners/01.png",
+      "title": "Take 50% off!",
+      "btnText": "shop now"
     }
   ],
   "carousel": [
