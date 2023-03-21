@@ -2,10 +2,11 @@
   "products": [
     {
       "id": "1",
-      "name": "Wooden drawers",
-      "price": 29.95,
+      "name": "Wooden table",
+      "price": 559.00,
       "rating": "5.0",
       "image": "https://george-fx.github.io/unimor/resources/products/01.jpg",
+      "images": [],
       "description": "Sunt id et eaque iure quae. Voluptates quia qui sint quia sit ab. Quasi suscipit autem eveniet dicta amet error corrupti sit.",
       "is_bestseller": true,
       "is_sale": true,
