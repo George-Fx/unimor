@@ -49,7 +49,7 @@
         },
         {
           "id": 4,
-          "name": "Marvin McKinney",
+          "name": "Jacob Jones",
           "image": "https://george-fx.github.io/unimor/resources/customers/04.jpg",
           "comment": "Consequat ut ea dolor aliqua laborum tempor Lorem culpa. Commodo veniam sint est mollit proident commodo.",
           "rating": 5,
@@ -57,7 +57,7 @@
         },
         {
           "id": 5,
-          "name": "Marvin McKinney",
+          "name": "Annette Black",
           "image": "https://george-fx.github.io/unimor/resources/customers/05.jpg",
           "comment": "Consequat ut ea dolor aliqua laborum tempor Lorem culpa. Commodo veniam sint est mollit proident commodo.",
           "rating": 5,
@@ -65,7 +65,7 @@
         },
         {
           "id": 6,
-          "name": "Marvin McKinney",
+          "name": "Jenny Wilson",
           "image": "https://george-fx.github.io/unimor/resources/customers/06.jpg",
           "comment": "Consequat ut ea dolor aliqua laborum tempor Lorem culpa. Commodo veniam sint est mollit proident commodo.",
           "rating": 5,
@@ -74,42 +74,21 @@
       ]
     },
     {
-      "id": "2",
+      "id": 2,
       "name": "Draper Sofa",
       "price": 29.95,
       "old_price": 76,
       "rating": "5.0",
       "image": "https://george-fx.github.io/unimor/resources/products/02.jpg",
+      "images": [
+        "https://george-fx.github.io/unimor/resources/products/01.jpg",
+        "https://george-fx.github.io/unimor/resources/products/02.jpg",
+        "https://george-fx.github.io/unimor/resources/products/03.jpg"
+      ],
       "description": "Sunt id et eaque iure quae. Voluptates quia qui sint quia sit ab. Quasi suscipit autem eveniet dicta amet error corrupti sit.",
       "is_bestseller": true,
       "is_sale": false,
       "is_featured": true,
-      "reviews": [
-        {
-          "id": 1,
-          "name": "Cameron Williamson",
-          "image": "https://george-fx.github.io/unimor/resources/users/01.jpg",
-          "comment": "Vel provident distinctio consequatur. Totam aut enim ea eligendi maxime. Quia perspiciatis in quia expedita beatae. Cupiditate provident tempore illum sunt sint ea. Enim quisquam in cum quibusdam.",
-          "rating": 4,
-          "created_at": "2022-08-20"
-        },
-        {
-          "id": 2,
-          "name": "Theresa Webb",
-          "image": "https://george-fx.github.io/unimor/resources/users/02.jpg",
-          "comment": "Aliquam laboriosam voluptates et dignissimos veritatis. Ut aut distinctio ipsam ea voluptatem. Sunt omnis id qui laudantium dolor et. Aut temporibus minus consectetur qui dolores architecto dicta.",
-          "rating": 2,
-          "created_at": "2022-08-20"
-        },
-        {
-          "id": 3,
-          "name": "Marvin McKinney",
-          "image": "https://george-fx.github.io/unimor/resources/users/03.jpg",
-          "comment": "Et illum omnis est totam asperiores aliquid et. Ipsum unde labore quibusdam. Nesciunt facilis fugiat aut sapiente expedita perspiciatis. Corrupti ex eum id voluptatem est libero.",
-          "rating": 3,
-          "created_at": "2022-08-20"
-        }
-      ],
       "colors": [
         "carrot",
         "blue",
@@ -117,10 +96,55 @@
         "purple",
         "black"
       ],
-      "images": [
-        "https://george-fx.github.io/unimor/resources/products/01.jpg",
-        "https://george-fx.github.io/unimor/resources/products/02.jpg",
-        "https://george-fx.github.io/unimor/resources/products/03.jpg"
+      "reviews": [
+        {
+          "id": 1,
+          "name": "Cameron Williamson",
+          "image": "https://george-fx.github.io/unimor/resources/customers/01.jpg",
+          "comment": "Consequat ut ea dolor aliqua laborum tempor Lorem culpa. Commodo veniam sint est mollit proident commodo.",
+          "rating": 5,
+          "created_at": "23 Jan 2023"
+        },
+        {
+          "id": 2,
+          "name": "Theresa Webb",
+          "image": "https://george-fx.github.io/unimor/resources/customers/02.jpg",
+          "comment": "Consequat ut ea dolor aliqua laborum tempor Lorem culpa. Commodo veniam sint est mollit proident commodo.",
+          "rating": 2,
+          "created_at": "2022-08-20"
+        },
+        {
+          "id": 3,
+          "name": "Marvin McKinney",
+          "image": "https://george-fx.github.io/unimor/resources/customers/03.jpg",
+          "comment": "Consequat ut ea dolor aliqua laborum tempor Lorem culpa. Commodo veniam sint est mollit proident commodo.",
+          "rating": 5,
+          "created_at": "2022-08-20"
+        },
+        {
+          "id": 4,
+          "name": "Jacob Jones",
+          "image": "https://george-fx.github.io/unimor/resources/customers/04.jpg",
+          "comment": "Consequat ut ea dolor aliqua laborum tempor Lorem culpa. Commodo veniam sint est mollit proident commodo.",
+          "rating": 5,
+          "created_at": "2022-08-20"
+        },
+        {
+          "id": 5,
+          "name": "Annette Black",
+          "image": "https://george-fx.github.io/unimor/resources/customers/05.jpg",
+          "comment": "Consequat ut ea dolor aliqua laborum tempor Lorem culpa. Commodo veniam sint est mollit proident commodo.",
+          "rating": 5,
+          "created_at": "2022-08-20"
+        },
+        {
+          "id": 6,
+          "name": "Jenny Wilson",
+          "image": "https://george-fx.github.io/unimor/resources/customers/06.jpg",
+          "comment": "Consequat ut ea dolor aliqua laborum tempor Lorem culpa. Commodo veniam sint est mollit proident commodo.",
+          "rating": 5,
+          "created_at": "2022-08-20"
+        }
       ]
     },
     {
