@@ -15,6 +15,13 @@
       "is_bestseller": true,
       "is_sale": true,
       "is_featured": true,
+      "colors": [
+        "carrot",
+        "blue",
+        "beige",
+        "purple",
+        "black"
+      ],
       "reviews": [
         {
           "id": 1,
@@ -64,13 +71,6 @@
           "rating": 5,
           "created_at": "2022-08-20"
         }
-      ],
-      "colors": [
-        "carrot",
-        "blue",
-        "beige",
-        "purple",
-        "black"
       ]
     },
     {
