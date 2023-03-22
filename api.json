@@ -921,31 +921,31 @@
   ],
   "categories": [
     {
-      "id": "1",
+      "id": 1,
       "name": "Lightning",
       "image": "https://george-fx.github.io/unimor/resources/categories/01.jpg",
       "loaded": false
     },
     {
-      "id": "2",
+      "id": 2,
       "name": "Bedding",
       "image": "https://george-fx.github.io/unimor/resources/categories/02.jpg",
       "loaded": false
     },
     {
-      "id": "3",
+      "id": 3,
       "name": "Chairs",
       "image": "https://george-fx.github.io/unimor/resources/categories/03.jpg",
       "loaded": false
     },
     {
-      "id": "4",
+      "id": 4,
       "name": "Decor",
       "image": "https://george-fx.github.io/unimor/resources/categories/04.jpg",
       "loaded": false
     },
     {
-      "id": "5",
+      "id": 5,
       "name": "Tables",
       "image": "https://george-fx.github.io/unimor/resources/categories/05.jpg",
       "loaded": false
