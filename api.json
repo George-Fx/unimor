@@ -901,19 +901,19 @@
   ],
   "carousel": [
     {
-      "id": "1",
+      "id": 1,
       "titleLine1": "Welcome to Unimor!",
       "titleLine2": "50% off",
       "image": "https://george-fx.github.io/unimor/resources/carousel/01.jpg"
     },
     {
-      "id": "1",
+      "id": 2,
       "titleLine1": "Welcome to Unimor!",
       "titleLine2": "50% off",
       "image": "https://george-fx.github.io/unimor/resources/carousel/01.jpg"
     },
     {
-      "id": "1",
+      "id": 3,
       "titleLine1": "Welcome to Unimor!",
       "titleLine2": "50% off",
       "image": "https://george-fx.github.io/unimor/resources/carousel/01.jpg"
